@@ -1,0 +1,10 @@
+// Your name at the center of the screen
+
+#include<stdio.h>
+int main()
+{
+    goto(10,25);      //it is a jump statement 
+    printf("SWETA");
+    return 0;
+}
+
